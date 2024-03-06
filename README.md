@@ -86,7 +86,8 @@ Chacun de ces cas illustre comment l'utilisateur interagit avec le système pour
  
 4.Diagramme de sequence:
  
-![image](https://github.com/salmajm/Portfolio/assets/145772761/b544f70a-7ffc-431f-b1d2-b14a5a768883)
+![image](https://github.com/salmajm/Portfolio/assets/145772761/6ed6f4d5-4c29-4e4f-97be-8eb44c84a50f)
+
 
 
 5.ERD (Entity Relational Diagram):  
